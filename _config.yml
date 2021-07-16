@@ -6,7 +6,7 @@
 name: Jiun Tseng
 
 # Short bio or description (displayed in the header)
-description: 
+description: human?
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: Jiun_picnic.png
@@ -21,8 +21,8 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: jiuntseng
-  instagram: whereismymaybeetle
+  github: https://github.com/jiuntseng
+  instagram: https://www.instagram.com/whereismymaybeetle/?hl=en
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
