@@ -1,13 +1,13 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 published: true
 ---
 
 
-### Hi!
-Hello there! My name is Jiun. I am a Biology and Mathematics student at UMass Amherst. This is my website with my passion projects that I've worked on!
+### Hi there!
+My name is Jiun. I am a Biology and Mathematics student at UMass Amherst. This is my website with my passion projects that I've worked on!
 ![Jiun_picnic.jpg]({{site.baseurl}}/Jiun_picnic.jpg)
 
 
