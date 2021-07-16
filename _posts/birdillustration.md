@@ -1,10 +1,11 @@
 ---
 published: true
+layout: post
 ---
 ## Bird illustrations
 Violetear
 
-
+![]({{site.baseurl}}/_posts/Sicklebill.png)
 Sickle bill
+![Sicklebill.png]({{site.baseurl}}/_posts/Sicklebill.png)
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
